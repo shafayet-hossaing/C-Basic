@@ -1,5 +1,5 @@
 #include<stdio.h>
-// Converting lowercase to uppercase using built in function/mehtod (toupper/tolower)
+// Converting lowercase to uppercase using built in function/mehtod
 int main ()
 {
     char lower, upper;
